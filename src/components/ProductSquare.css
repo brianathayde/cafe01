@@ -1,0 +1,29 @@
+
+.prodSquare{
+    position: relative;
+    margin-top: 6vw;
+    margin-left: 4.6vw;
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.prodSquareImg{
+    width: 41vw;
+    height: 41vw;
+}
+
+.prodSquareCost{
+    color: white;
+    background-color: rgb(115, 32, 0);
+    font-size: 16px;
+    position: relative;
+    height: 23px;
+    top: calc(41vw - 22px);
+    right: 41vw;
+    /* right: 45px; */
+
+    
+    /* margin-left: calc(100% - 55px); */
+}
