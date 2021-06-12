@@ -1,0 +1,37 @@
+.prodLarge{
+    margin-top: 6vw;
+
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vw;
+
+}
+
+.prodLargeImg{
+    width: 90vw;
+    height: 120vw;
+}
+
+.prodLargeDescription{
+    color: white;
+    max-width: 90vw;
+    text-align: center;
+    background-color: rgb(115, 32, 0);
+    font-size: 12px;
+
+}
+
+.prodLargeCost{
+    color: white;
+    max-width: 90vw;
+    text-align: center;
+    background-color: rgb(115, 32, 0);
+    font-size: 26px;
+}
+
+.bt-buy{
+    color: white;
+    max-width: 90vw;
+    background-color: rgb(115, 32, 0);
+    font-size: 26px;
+}
