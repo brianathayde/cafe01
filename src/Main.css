@@ -1,0 +1,115 @@
+
+
+/* menuuuuuuuuuu */
+
+.App {
+  text-align: left;
+  background-image: url("bg90.jpg");
+}
+
+
+.header-homepage{
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+
+  height: 120px;
+}
+
+
+.top-promo {
+  text-align: center;
+  background-color: rgb(115, 32, 0);
+  /* background-color: rgb(255, 100, 0); */
+  color: white;
+}
+
+.logo{
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+  margin-left: 10px;
+  position: relative;
+}
+
+
+.bt-cart{
+  width: 48px;
+  height: 48px;
+  float: right;
+  margin-top: 42px;
+}
+
+.bt-menu{
+  width: 48px;
+  height: 48px;
+  float: right;
+  margin-top: 42px;
+  margin-right: 6px;
+}
+
+.txt-info{
+  color: white;
+  text-align: center;
+  width: 100vw;
+  background-color: rgb(115, 32, 0);
+  /* background-color: rgb(255, 100, 0); */
+  margin-top: 5vw;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+
+.menu-space{
+  width: 100%;
+  margin: auto;
+}
+
+.discounts{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+ 
+.footer-homepage{
+  margin-top: 20px;
+  width: 100%;
+  height: 700px;
+  background-color: black;
+  color: white;
+}
+
+.footer-logo{
+  padding-top: 50px;
+  height: 100px;
+  width: 100px;
+  margin: auto;
+}
+
+.footer-infos{
+  display: inline-block;
+  height: 200px;
+  padding-top: 50px;
+
+  box-sizing: border-box;
+}
+
+
+.footer-txt{
+  display: inline-block;
+  font-size: calc(1.1vmax + 15px);
+  color: white;
+
+
+  height: 100%;
+
+  margin: auto;
+
+}
+
+.payments{
+  width: 49vmax;
+}
+
+.contacts{
+  width: 49vmax;
+}
